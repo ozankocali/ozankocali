@@ -10,4 +10,4 @@ Hello World,I'm Ozan.:raising_hand_man:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozankocali&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozankocali&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozankocali&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
