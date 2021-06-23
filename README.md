@@ -18,6 +18,7 @@ Hello World,I'm Ozan.:raising_hand_man:
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+
 --------------------------------------------------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozankocali&show_icons=true&theme=midnight-purple)
