@@ -2,7 +2,7 @@ Hello World,I'm Ozan.:raising_hand_man:
 
 :green_circle: I'm currently using Spring and Angular
 
-:purple_circle: I'm currently working as a full-stack develeoper at Somera
+:purple_circle: I'm currently working as a full-stack developer at Somera
 
 :orange_circle: To reach me : ozan.kocali@hotmail.com
 
